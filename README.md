@@ -2,13 +2,17 @@
 
 ## Descrição do Projeto
 
-Este projeto realiza uma análise completa do dataset de clientes da Telecom X BR com o objetivo de identificar os fatores que levam à evasão (Churn) e propor estratégias de retenção. Através de etapas de Extração, Tratamento e Análise Exploratória de Dados, buscou-se compreender o perfil dos clientes que cancelam seus serviços.
+Este projeto realiza uma análise completa do dataset de clientes da Telecom X BR com o objetivo de identificar os fatores que levam à evasão (Churn) e propor estratégias de retenção. Através de etapas de Extração, Tratamento e Análise Exploratória de Dados, visando compreender o perfil dos clientes que cancelam seus serviços.
 
 ## Dados
 
-Os dados utilizados neste projeto foram obtidos de:
-- **Dados de Clientes:** [Link para TelecomX_Data.json no seu repositório GitHub]
-- **Dicionário de Dados:** [Link para TelecomX_dicionario.md no seu repositório GitHub]
+Os dados utilizados neste projeto foram importados da API Telecom X
+
+📌 Link da API:
+- **Dados de Clientes:**
+🔗https://github.com/ingridcristh/challenge2-data-science/blob/main/TelecomX_Data.json
+- **Dicionário de Dados:**
+🔗https://github.com/ingridcristh/challenge2-data-science/tree/main
 
 ## Tecnologias e Bibliotecas Utilizadas
 
@@ -21,25 +25,19 @@ Os dados utilizados neste projeto foram obtidos de:
 
 ## Como Visualizar e Executar o Projeto
 
-O projeto está contido em um notebook Jupyter/Colab.
+O projeto está contido em um notebook Colab.
 
 1. **Acessar o Notebook:** Clique no link abaixo para visualizar o notebook diretamente no GitHub:
-   [Link para o seu notebook no seu repositório GitHub, ex: https://github.com/seu_usuario/seu_repo/blob/main/Nome_do_seu_Notebook.ipynb]
+🔗https://colab.research.google.com/drive/18IvbbDuEsiDhCDt3Iti1oHZorIB5RJ5G?usp=sharing
 
-2. **Executar no Google Colab:**
+3. **Executar no Google Colab:**
    - Abra o link do notebook no GitHub.
    - Clique no ícone "Open in Colab" (Abrir no Colab) que geralmente aparece no topo da visualização do notebook no GitHub.
    - Execute as células sequencialmente para replicar a análise.
 
-3. **Executar no Jupyter Notebook (Localmente):**
-   - Clone o repositório para o seu computador.
-   - Certifique-se de ter Python e as bibliotecas listadas instaladas (`pip install pandas numpy matplotlib seaborn requests`).
-   - Abra um terminal na pasta do repositório e execute `jupyter notebook`.
-   - Abra o arquivo do notebook (`Nome_do_seu_Notebook.ipynb`) na interface do Jupyter.
-
 ## Estrutura do Repositório
 
-- `Nome_do_seu_Notebook.ipynb`: O notebook principal contendo todo o código e relatório.
+- "CHALLENGE_TELECOM.ipynb": O notebook principal contendo todo o código e relatório.
 - `TelecomX_Data.json`: Arquivo de dados original.
 - `TelecomX_dicionario.md`: Dicionário de dados.
 - `README.md`: Este arquivo.
@@ -56,9 +54,9 @@ O projeto está contido em um notebook Jupyter/Colab.
 
 ## Autor
 
-- [Seu Nome Completo]
-- GitHub: [Link para o seu perfil GitHub]
-- LinkedIn: [Link para o seu perfil LinkedIn (Opcional)]
+- Juliane Borges
+- GitHub:https://github.com/JULIANNEBBORGES/CHALLENGE_TELECOM_X_BR
+- LinkedIn: https://www.linkedin.com/in/julianebb
 
-## Licença
+
 
