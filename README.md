@@ -44,22 +44,22 @@ O projeto está contido em um notebook Colab.
 
 ## Conclusões Principais
 
-- A análise exploratória e de correlação revelou padrões significativos relacionados à evasão de clientes:
+ A análise exploratória e de correlação revelou padrões significativos relacionados à evasão de clientes:
 
-- ⏳Tempo de Permanência é Crítico: Clientes com menor tempo de permanência (tenure) são significativamente mais propensos a evadir. A retenção nos primeiros meses é fundamental.<br>
+- ⏳Tempo de Permanência é Crítico: Clientes com menor tempo de permanência (tenure) são significativamente mais propensos a evadir. A retenção nos primeiros meses é fundamental.
 - 📑Tipo de Contrato: Clientes com contratos mensais apresentam uma taxa de evasão muito maior em comparação com aqueles com contratos de um ou dois anos.
 - 💰Método de Pagamento e Conveniência: Métodos de pagamento menos convenientes, como cheque eletrônico, estão associados a uma maior taxa de evasão. Pagamentos automáticos (transferência bancária, cartão de crédito) indicam maior estabilidade e menor churn.
-- 🖇Serviços Adicionais Agem Como Retentores: Clientes que assinam serviços adicionais, especialmente os relacionados à segurança (OnlineSecurity, OnlineBackup, DeviceProtection) e suporte (TechSupport), tendem a ter uma taxa de evasão consideravelmente menor. O número total de serviços adicionais também está negativamente correlacionado com o Churn.<br>
+- 🎯Serviços Adicionais Agem Como Retentores: Clientes que assinam serviços adicionais, especialmente os relacionados à segurança (OnlineSecurity, OnlineBackup, DeviceProtection) e suporte (TechSupport), tendem a ter uma taxa de evasão consideravelmente menor. O número total de serviços adicionais também está negativamente correlacionado com o Churn.
 
 ## Recomendações Chave
 
-- [Liste 2-3 recomendações principais do seu relatório, ex: Focar na retenção de novos clientes e promover contratos mais longos.]
-- [Outra recomendação chave, ex: Incentivar a adesão a servços adicionais de segurança.]
+- 🎯Focar na Retenção de Novos Clientes: Implementar programas de engajamento e suporte intensivos nos primeiros meses de serviço para aumentar a satisfação e o tempo de permanência inicial.
+- 🎯Incentivar Contratos Mais Longos: Oferecer benefícios, descontos ou pacotes especiais para clientes que optarem por contratos de um ou dois anos em vez de contratos mensais.
 
 ## Autor
 
 - Juliane Borges
-- GitHub:https://github.com/JULIANNEBBORGES/CHALLENGE_TELECOM_X_BR
+- GitHub:http://github.com/JULIANNEBBORGES/CHALLENGE_TELECOM_X_BR
 - LinkedIn: https://www.linkedin.com/in/julianebb
 
 
