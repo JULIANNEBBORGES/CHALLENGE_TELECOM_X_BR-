@@ -28,7 +28,7 @@ Os dados utilizados neste projeto foram importados da API Telecom X
 O projeto está contido em um notebook Colab.
 
 1. **Acessar o Notebook:** Clique no link abaixo para visualizar o notebook diretamente no GitHub:
-🔗https://colab.research.google.com/drive/18IvbbDuEsiDhCDt3Iti1oHZorIB5RJ5G?usp=sharing
+ 🔗https://colab.research.google.com/drive/18IvbbDuEsiDhCDt3Iti1oHZorIB5RJ5G?usp=sharing
 
 3. **Executar no Google Colab:**
    - Abra o link do notebook no GitHub.
