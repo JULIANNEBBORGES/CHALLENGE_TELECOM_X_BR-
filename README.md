@@ -44,8 +44,12 @@ O projeto está contido em um notebook Colab.
 
 ## Conclusões Principais
 
-- [Resuma 2-3 conclusões mais importantes do seu relatório, ex: Clientes com baixo tenure e contrato mensal são mais propensos a evadir.]
-- [Outra conclusão chave, ex: Serviços de segurança e suporte estão associados a menor churn.]
+- A análise exploratória e de correlação revelou padrões significativos relacionados à evasão de clientes:
+
+- ⏳Tempo de Permanência é Crítico: Clientes com menor tempo de permanência (tenure) são significativamente mais propensos a evadir. A retenção nos primeiros meses é fundamental.<br>
+- 📑Tipo de Contrato: Clientes com contratos mensais apresentam uma taxa de evasão muito maior em comparação com aqueles com contratos de um ou dois anos.
+- 💰Método de Pagamento e Conveniência: Métodos de pagamento menos convenientes, como cheque eletrônico, estão associados a uma maior taxa de evasão. Pagamentos automáticos (transferência bancária, cartão de crédito) indicam maior estabilidade e menor churn.
+- 🖇Serviços Adicionais Agem Como Retentores: Clientes que assinam serviços adicionais, especialmente os relacionados à segurança (OnlineSecurity, OnlineBackup, DeviceProtection) e suporte (TechSupport), tendem a ter uma taxa de evasão consideravelmente menor. O número total de serviços adicionais também está negativamente correlacionado com o Churn.<br>
 
 ## Recomendações Chave
 
