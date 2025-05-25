@@ -59,7 +59,7 @@ O projeto está contido em um notebook Colab.
 ## Autor
 
 - Juliane Borges
-- GitHub:http://github.com/JULIANNEBBORGES/CHALLENGE_TELECOM_X_BR
+- GitHub:http://github.com/JULIANNEBBORGES
 - LinkedIn: https://www.linkedin.com/in/julianebb
 
 
